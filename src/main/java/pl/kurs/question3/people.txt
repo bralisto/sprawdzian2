@@ -1,0 +1,15 @@
+Student	Jan	Kowalski	95010112315	Warszawa	Informatyka	1000.0
+Student	Anna	Nowak	92020212345	Kraków	Matematyka	1200.0
+Worker	Piotr	Wiœniewski	85030312375	£ódŸ	In¿ynier	4000.0
+Worker	Katarzyna	Wójcik	76040412345	Wroc³aw	Manager	6000.0
+Student	Micha³	Kowalczyk	97050512315	Poznañ	Fizyka	900.0
+Worker	Maria	Kamiñska	74060612345	Gdañsk	Nauczyciel	3500.0
+Student	Agnieszka	Lewandowska	99070712345	Szczecin	Chemia	1100.0
+Worker	Tomasz	Zieliñski	81080812375	Bydgoszcz	Lekarz	5000.0
+Student	Monika	Szymañska	95090912345	Lublin	Biologia	1300.0
+Worker	Barbara	WoŸniak	73030312345	Katowice	Prawnik	4500.0
+Student	Derek	Kaczmarek	96010112395	Bia³ystok	Informatyka	1500.0
+Worker	Wojciech	Piotrowski	82020212355	Rzeszów	Architekt	4700.0
+Student	Ewa	Koz³owska	91030312345	Zielona Góra	Ekonomia	800.0
+Worker	Joanna	Jankowska	77040412345	Opole	Ksiêgowa	4200.0
+Worker	Marek	Mazur	85050512335	Kielce	Mechanik	3800.0

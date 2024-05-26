@@ -1,0 +1,3 @@
+Kwadrat;10.0
+Kolo;20.0
+Prostokat;10.0;20.0

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pl/kurs/question1/data/noworodki.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pl/kurs/question1chat/data/noworodki.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pl/kurs/question2/data/lekarze.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pl/kurs/question3/people.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/pl/kurs/question4/figury.txt" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1250" />
+  </component>
+</project>
